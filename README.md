@@ -76,6 +76,11 @@ All phase documents are organized in folders:
 **Kharizma**
 - GitHub: [@kharizma23](https://github.com/kharizma23)
 
+## Documents 
+
+
+https://drive.google.com/drive/folders/1PKCJs5vAZlJDDrQUQZVwiINPxM4R6UlG?usp=sharing
+
 ## License
 
 This project is created for academic and demonstration purposes.
